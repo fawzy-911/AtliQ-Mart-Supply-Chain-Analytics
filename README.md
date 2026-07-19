@@ -6,7 +6,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Validated-success)
 <p align="center">
-  <img src="assets/Dashboard.png" alt="AtliQ Mart OTIF Dashboard" width="800"/>
+  <img src="assets/Dashboard.png" alt="AtliQ Mart OTIF Dashboard"/>
 </p>
 ---
 
