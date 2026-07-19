@@ -6,7 +6,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Validated-success)
 <p align="center">
-  <img src="[assets/Dashboard.png](https://github.com/fawzy-911/AtliQ-Mart-Supply-Chain-Analytics/blob/main/assests/Dashboard.png)" alt="AtliQ Mart OTIF Dashboard"/>
+  <img href="https://github.com/fawzy-911/AtliQ-Mart-Supply-Chain-Analytics/blob/main/assests/Dashboard.png" alt="AtliQ Mart OTIF Dashboard"/>
 </p>
 ---
 
