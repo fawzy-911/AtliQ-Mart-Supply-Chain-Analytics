@@ -17,8 +17,8 @@ Order fulfillment failure in FMCG distribution is not a service-quality footnote
 | Exposure Driver | Mechanism | Est. Impact (placeholder) |
 |---|---|---|
 | Contractual chargebacks | Penalty clauses tied to OTIF % below SLA | (OTIF Breaches × Avg. Order Value) × Penalty Rate |
-| Lost shelf space / delisting risk | Retailer reallocates SKU facings to compliant suppliers | `$__ annualized, at-risk accounts` |
-| Working capital drag | Expedited freight + re-pick cost on failed orders | `$__ / quarter` |
+| Lost shelf space / delisting risk | Retailer reallocates SKU facings to compliant suppliers | Historical Sales of at-risk accounts × % Churn Risk |
+| Working capital drag | Expedited freight + re-pick cost on failed orders | (Holding Cost × Days Lost) + Freight Variance |
 
 **This dashboard exists to convert that exposure from a lagging, quarterly-review conversation into a leading, account-level, root-cause-attributed one.**
 
@@ -190,10 +190,10 @@ Documented deliberately, not omitted — data integrity in a portfolio artifact 
 
 ## Repository Structure
 
-See `/data`, `/assets`, and `/docs` for source data documentation, visual exports, and extended DAX/business-logic reference material respectively.
+See `/data`, `/assets` for source data documentation, visual exports, and extended DAX/business-logic reference material respectively.
 
 ---
 
 ## Contact
 
-*[Your name / LinkedIn / email here]*
+*[Mohamed Fawzy / www.linkedin.com/in/mohamed-fawzy-99449440a / hegabwork.26@gmail.com]*
