@@ -5,10 +5,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ![Status](https://img.shields.io/badge/Status-Validated-success)
-<p align="center">
-  <img href="https://github.com/fawzy-911/AtliQ-Mart-Supply-Chain-Analytics/blob/main/assests/Dashboard.png" alt="AtliQ Mart OTIF Dashboard"/>
-</p>
----
+![D](https://github.com/fawzy-911/AtliQ-Mart-Supply-Chain-Analytics/blob/main/assests/Dashboard.png)
 
 ## Business Impact Statement
 
