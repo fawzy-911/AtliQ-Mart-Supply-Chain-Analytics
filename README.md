@@ -3,8 +3,7 @@
 **A production-grade Power BI solution built to diagnose and root-cause contractual OTIF (On-Time-In-Full) failures across a multi-city FMCG distribution network — engineered to separate warehouse fulfillment failure from logistics transit failure, at SKU-level granularity, against individually contract-bound SLA targets per account.**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX]
-![Data Model]
+
 ![Status](https://img.shields.io/badge/Status-Validated-success)
 
 ---
