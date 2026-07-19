@@ -59,19 +59,7 @@ Source dates in `fact_order_lines` arrive as long-form text (`"Tuesday, March 1,
 
 ### Data Modeling: Star Schema & the Three-Date Relationship Problem
 
-```
-                    dim_date
-                       │
-        ┌──────────────┼──────────────┐
-   (inactive)      (ACTIVE)       (inactive)
-placement_date  actual_delivery  agreed_delivery
-        │              │              │
-        └──────────────┼──────────────┘
-                        ▼
-dim_customers ──▶ fact_order_lines ◀── dim_products
-        │
-dim_targets_orders
-```
+![M](https://github.com/fawzy-911/AtliQ-Mart-Supply-Chain-Analytics/blob/main/assests/data%20modeling.png)
 
 `fact_order_lines` contains three plausible date join-keys to a single `dim_date` dimension. Power BI enforces a single **active** relationship per fact-to-dimension pair when multiple candidate keys exist — a second or third simultaneous active path produces ambiguous filter propagation and is not supported without explicit control.
 
