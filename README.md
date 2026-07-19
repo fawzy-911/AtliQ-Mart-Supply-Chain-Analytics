@@ -16,7 +16,7 @@ Order fulfillment failure in FMCG distribution is not a service-quality footnote
 
 | Exposure Driver | Mechanism | Est. Impact (placeholder) |
 |---|---|---|
-| Contractual chargebacks | Penalty clauses tied to OTIF % below SLA | `$__ / breach event` |
+| Contractual chargebacks | Penalty clauses tied to OTIF % below SLA | (OTIF Breaches × Avg. Order Value) × Penalty Rate |
 | Lost shelf space / delisting risk | Retailer reallocates SKU facings to compliant suppliers | `$__ annualized, at-risk accounts` |
 | Working capital drag | Expedited freight + re-pick cost on failed orders | `$__ / quarter` |
 
